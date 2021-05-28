@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/MovieClubFamily")
+                            "⭕️ JOIN OUR GROUP ⭕️", url="https://t.me/MovieClubFamily")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/MovieClubFamily")
+                            "⭕️ JOIN OUR GROUP ⭕️", url="https://t.me/MovieClubFamily")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Join Our Group", url="https://t.me/MovieClubFamily")
+                            " JOIN OUR GROUP ", url="https://t.me/MovieClubFamily")
                     ]
                 ]
             ),
