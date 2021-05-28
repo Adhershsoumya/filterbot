@@ -22,14 +22,14 @@
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/dinuka340/filterbot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dinuka340/filterbot)
 
 
 
 
 
 #### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/TroJanzHEX/Auto-Filter-Bot)
+#### This is Version 2 of [Auto Filter Bot](https://github.com/dinuka340/filterbot)
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -71,11 +71,11 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuka340/filterbot)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot-V2
+git clone https://github.com/dinuka340/filterbot
 cd Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
