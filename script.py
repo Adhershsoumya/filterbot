@@ -28,8 +28,6 @@ For more click <i>help</i></b>"""
 or
 * <code>/add @channelusername</code> - Links channel to your group.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
-
 
 * <code>/del channelid</code>  -  Delinks channel from group
 or
