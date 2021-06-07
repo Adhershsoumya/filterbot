@@ -78,7 +78,7 @@ async def filter(client: Bot, message: Message):
         )
 
         await message.reply_text(
-                f"<b> Here is the result for {message.text}</b>",
+                f"<b> මෙන්න ඔයා හොයන {message.text}</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
 
