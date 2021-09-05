@@ -26,7 +26,7 @@ from database.mdb import (
 
 
 
-@Client.on_message(filters.group & filters.command(["add"]))
+@Client.on_message(filters.group & filters.command(["addmcf"]))
 async def addchannel(client: Bot, message: Message):
 
     if message.from_user.id not in AUTH_USERS:
